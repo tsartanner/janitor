@@ -1,5 +1,3 @@
-# Created by Tanner Derrow, 3/13/2020
-
 import os 
 import shutil 
 
